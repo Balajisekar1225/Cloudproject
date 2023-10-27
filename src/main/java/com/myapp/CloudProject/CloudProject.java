@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class CloudProject {
 	@GetMapping (value="admin") 
 		public String getvalue() {
-			return "Hi Balaji";
+			return "Hi Balaji thanks for access your repositor;
 		}
 	}
 
